@@ -14,6 +14,7 @@ setuptools.setup(
         'dash>=2.1.0',
         'Flask>=2.0.2',
         'authlib>=0.15.5',
+        'six',
         'requests>=2.27.1'
     ],
     python_requires='>=3.8',
